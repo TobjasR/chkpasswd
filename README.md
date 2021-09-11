@@ -23,9 +23,9 @@ Wr0ng_P4ss (input hidden)
 sorry, that didn't match, try again...
 
 enter password for user admin:
-Wr0ng_P4ss
+Wr0ng_P4ss (input hidden)
 please enter the password again:
-Wr0ng_P4ss
+Wr0ng_P4ss (input hidden)
 
 hashes don't match.
 user admin wasn't able to authenticate against shadow file
