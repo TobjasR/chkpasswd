@@ -46,5 +46,7 @@ R1ght_P4ss (input hidden)
 please enter the password again:
 R1ght_P4ss (input hidden)
 Success. User admin authenticated against shadow.
+$ echo $?
+0
 ```
 
